@@ -65,3 +65,18 @@ li a{
 #rnavbar{
     right: 140px;
 }
+#signin{
+    right: 40px;
+    top: 5px;
+}
+#brnav, #blnav{
+    top: auto;
+    bottom: 16px;
+    background-color: #5F6368;
+}
+#brnav{
+    right: 70px;
+}
+#blnav{
+    left: 15;
+}
